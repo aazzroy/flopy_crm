@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+title: Flopy CRM Documentation
+description: Comprehensive documentation for the Flopy CRM system
+show_downloads: true
+github:
+  repository_url: https://github.com/aazzroy/flopy_crm
+  zip_url: https://github.com/aazzroy/flopy_crm/archive/refs/heads/main.zip
+  tar_url: https://github.com/aazzroy/flopy_crm/archive/refs/heads/main.tar.gz 
