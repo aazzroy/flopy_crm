@@ -1,0 +1,40 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# PHP dependencies
+/vendor/
+composer.lock
+
+# Environment files
+.env
+.env.backup
+*.env.*
+
+# Config files with sensitive information
+# config/database.php - Include this in repo but with placeholders
+
+# Logs and cache
+/logs/
+/cache/
+
+# User uploaded files
+/public/uploads/**/*
+!/public/uploads/**/.gitkeep
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo 
